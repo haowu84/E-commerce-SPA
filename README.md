@@ -10,7 +10,7 @@
 - client/src/components: 3 components for creating, reading, updating, and deleting products
 
 ## Setup
-- Running the backend server:  ```node server.js```
+- Running the server:  ```node server.js```
 - Running the client: ```npm start```
 
 ## Summary
